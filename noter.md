@@ -11,6 +11,10 @@ Et eksempel her: https://www.piratewires.com/p/gpt4-token-smuggling
 
 ## DAN
 
+## sikkerhed 
+
+Alignment Research Center - det er dem der har testet gpt4 for openai.
+
 # Hvad er dyret
 
 # Bredere end ChatGPT
